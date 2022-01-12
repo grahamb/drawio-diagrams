@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T23:06:18.900Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" version="16.2.6" etag="4evLYBzVzP4PT-ARds7D" type="github"><diagram id="24up0gxe4grWU0LH76e5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-12T23:08:14.142Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="Kq0D8RMyfEXdE4kBmxWh" version="16.2.6" type="github">
+  <diagram id="24up0gxe4grWU0LH76e5" name="Page-1">
+    <mxGraphModel dx="1783" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z8Cx8PqFBD-gAu5RSCC5-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8Cx8PqFBD-gAu5RSCC5-1" target="Z8Cx8PqFBD-gAu5RSCC5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8Cx8PqFBD-gAu5RSCC5-1" value="internet" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="390" y="520" width="136.51" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8Cx8PqFBD-gAu5RSCC5-2" value="load balancer&lt;br&gt;mfa.sfu.ca" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.classic_load_balancer;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="527" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8Cx8PqFBD-gAu5RSCC5-5" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_farm" vertex="1" parent="1">
+          <mxGeometry x="740" y="547" width="50" height="32" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
